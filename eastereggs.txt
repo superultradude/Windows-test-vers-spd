@@ -1,0 +1,5 @@
+"baldie": "https://northvilleschools.schoology.com/user/126047859/info",
+"thalaiva": "https://northvilleschools.schoology.com/user/100475068/info",
+"w": "https://northvilleschools.schoology.com/home",
+"astley": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+"neo": "https://docs.google.com/presentation/d/e/2PACX-1vTxbHuNxSiP6g5TjnnL13taa_nus1ORtH4YNuFSkWuFFSWangbTreivq0ctyykYETrwMQw9BVphEdfV/pub?start=false&loop=true&delayms=1000&pli=1&slide=id.p"
